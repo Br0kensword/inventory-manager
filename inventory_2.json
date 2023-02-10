@@ -1,0 +1,72 @@
+[
+  {
+    "name": "avnet",
+    "inventory_level": "100",
+    "price_point_quantity": "1",
+    "price": "1",
+    "is_authorized": true
+  },
+  {
+    "name": "avnet",
+    "inventory_level": "100",
+    "price_point_quantity": "50",
+    "price": ".5",
+    "is_authorized": true
+  },
+  {
+    "name": "newark",
+    "inventory_level": "100",
+    "price_point_quantity": "50",
+    "price": "1",
+    "is_authorized": true
+  },
+  {
+    "name": "element14-apac",
+    "inventory_level": "500",
+    "price_point_quantity": "50",
+    "price": "5",
+    "is_authorized": true
+  },
+  {
+    "name": "element14-apac",
+    "inventory_level": "500",
+    "price_point_quantity": "50",
+    "price": "5",
+    "is_authorized": true
+  },
+  {
+    "name": "rs",
+    "inventory_level": "1000",
+    "price_point_quantity": "50",
+    "price": "5",
+    "is_authorized": true
+  },
+  {
+    "name": "rs",
+    "inventory_level": "1000",
+    "price_point_quantity": "1000",
+    "price": "2",
+    "is_authorized": true
+  },
+  {
+    "name": "digi-key",
+    "inventory_level": "1000",
+    "price_point_quantity": "500",
+    "price": "3",
+    "is_authorized": true
+  },
+  {
+    "name": "chip-stop",
+    "inventory_level": "1000",
+    "price_point_quantity": "500",
+    "price": "3",
+    "is_authorized": true
+  },
+  {
+    "name": "win-source",
+    "inventory_level": "5000",
+    "price_point_quantity": null,
+    "price": null,
+    "is_authorized": false
+  }
+]

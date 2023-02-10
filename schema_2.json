@@ -1,0 +1,12 @@
+{
+  "arrow-electronics": {
+    "regions": null,
+    "subsidiaries": ["future-electronics"]
+  },
+  "avnet": {
+    "regions": ["avnet-europe"],
+    "subsidiaries": ["element14-apac", "farnell", "newark"]
+  },
+  "tti": { "regions": ["tti-asia", "tti-europe"], "subsidiaries": ["mouser"] },
+  "digi-key": { "regions": null, "subsidiaries": ["chip-stop"] }
+}

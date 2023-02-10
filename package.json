@@ -1,0 +1,8 @@
+{
+  "name": "find-inventroy",
+  "version": "1.0.0",
+  "description": "module for finding inventory",
+  "main": "main.js",
+  "author": "Justin Unverricht",
+  "license": "ISC"
+}
